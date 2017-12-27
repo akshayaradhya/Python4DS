@@ -1,0 +1,9 @@
+__pycache__
+venv
+nlp-venv
+nlp-tutorial-venv
+.ipynb_checkpoints
+.DS_Store
+htmlcov
+.coverage
+slides
