@@ -1,4 +1,0 @@
-*.pyc
-notebooks/.ipynb_checkpoints/
-notebooks/datasets
-notebooks/joblib/
